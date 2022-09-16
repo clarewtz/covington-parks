@@ -1,3 +1,3 @@
 # covington-parks
 
-This is a testing site for Covington Parks
+This is a testing site for Covington parks.
